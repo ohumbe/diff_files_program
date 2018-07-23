@@ -1,4 +1,4 @@
-# diff_files_program
+# diff_files_program (python3)
 
 I developed this program for Week 4 of the "Python Data Representations" Rice University 
 Coursera course (https://www.coursera.org/learn/python-representation) which is part of the
