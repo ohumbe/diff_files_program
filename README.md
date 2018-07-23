@@ -10,10 +10,9 @@ In this project you will find differences in the contents of two files. In parti
 will find the location of the first character that differs between two input files. You 
 might want to do something like this if you are comparing how something has changed. It 
 is convenient to present to the user the first difference to allow them to see what 
-has happened.
+has happened. Your project will return a four line string that looks as follows:
 
-Project Template given:
-https://storage.googleapis.com/codeskulptor-isp/course2/isp_diff_template.py
+Line 3:abcd==^abef
 
 Notes:
 The 10 files attached are sample files to diff.
